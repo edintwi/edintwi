@@ -1,6 +1,6 @@
 ### Hi there 👋
 Nice to meet you! <br>
-My name is Edson Brandon
+My name is <b> Edson Brandon </b>
 - 🌱 I'm currently learning web development
 - 😄 I realy like to learn
 - 🎓 I'm studying information systems
