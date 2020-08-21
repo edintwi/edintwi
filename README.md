@@ -1,5 +1,5 @@
 ### Hi there 👋
-Nice to meet you!
+Nice to meet you! <br>
 My name is Edson Brandon
 - 🌱 I'm currently learning web development
 - 😄 I realy like to learn
