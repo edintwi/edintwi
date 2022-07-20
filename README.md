@@ -11,6 +11,7 @@ Atualmente atuando com desenvolvimento Frontend
 • React Native </br>
 
 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edintwi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 <br/>
 <br/>
