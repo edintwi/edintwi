@@ -5,7 +5,7 @@
 Sou um jovem visionário da tecnologia. 
 Atualmente atuando com desenvolvimento Frontend
  
-• HTML </br>
+• HTML <image src = 'https://pixabay.com/pt/illustrations/logotipo-html-html5-%C3%ADcone-2582748/' />  </br>
 • CSS </br>
 • JS </br>
 • React Js </br>
