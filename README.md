@@ -10,6 +10,7 @@ Atualmente atuando com desenvolvimento Frontend
 • JS </br>
 • React Js </br>
 • React Native </br>
+• Node JS </br>
 
 </p>
 
