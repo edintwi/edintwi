@@ -3,7 +3,9 @@
 <br/>
 <p>
 Sou um jovem visionário da tecnologia. 
-Atualmente atuando com desenvolvimento Frontend
+Atualmente atuando com desenvolvimento Frontend.
+ 
+I am a young technology visionary. Currently working with Frontend development.
  
 • HTML </br>
 • CSS </br>
