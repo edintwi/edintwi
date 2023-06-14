@@ -1,4 +1,4 @@
-const aboutMe = {
+``` const aboutMe = {
   name: 'Edson Brandon Couto do Amaral',
   age: '22',
   rank: 'Front-end Developer Junior',
@@ -28,3 +28,5 @@ function contactMe() {
     linkedin: 'linkedin.com/in/edson-brandon/',
   }
 }
+
+``` 
