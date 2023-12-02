@@ -1,6 +1,7 @@
 ### Olá!👋
 #### Me chamo Edson Brandon, estou cursando sistemas de informação e sou um desenvolvedor mobile, atualmente utilizo o React Native como minha principal Stack.
 
+### Hello!👋
 #### My name is Edson Brandon, I'm studying information systems and I'm a mobile developer, I currently use React Native as my main Stack.
 
 
