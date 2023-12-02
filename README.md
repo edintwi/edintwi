@@ -1,5 +1,5 @@
 ### Olá!👋
-
+## Me chamo Edson Brandon, estou cursando sistemas de informação e sou um desenvolvedor mobile, atualmente utilizo o React Native como minha principal Stack.
 ### Tecnologias que utilizo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
