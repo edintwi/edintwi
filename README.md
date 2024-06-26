@@ -1,20 +1,12 @@
 ### Olá!👋
 #### Me chamo Edson Brandon, estou cursando sistemas de informação e sou um desenvolvedor mobile, atualmente utilizo o React Native como minha principal Stack.
 
-### Hello!👋
-#### My name is Edson Brandon, I'm studying information systems and I'm a mobile developer, I currently use React Native as my main Stack.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-brandon/)
 [![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://edintwi.github.io/portifolio-build/)
 
-
-
-
-
-
-
-### Technologies    
+### Tecnologias    
 
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
