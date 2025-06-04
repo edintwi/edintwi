@@ -1,5 +1,5 @@
 ### Olá!👋
-#### Me chamo Edson Brandon, sou formado sistemas de informação e sou um desenvolvedor mobile IOS, atualmente utilizo Swift e SwiftUI como minha principal Stack.
+#### Me chamo Edson Brandon, sou formado sistemas de informação e sou um desenvolvedor mobile, minhas principais stacks são React Native, Typescript, Swift e Swift UI.
 
 
 
